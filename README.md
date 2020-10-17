@@ -1,4 +1,4 @@
 # Webex-Meetings-Noise-Suppressor
 This solution is to tackle the problem of noise entering the mic of the speaker causing issues in audio making it hard to hear the speaker. This solution aims to suppress the noise being broadcasted onto the meeting by using deep learning.
 
-[Sample](/audio_samples/eval_input_15.wav)
+[Evaluation input 15](https://github.com/shivasv97/Webex-Meetings-Noise-Suppressor/blob/main/audio_samples/eval_input_15.wav)
