@@ -3,4 +3,4 @@ This solution is to tackle the problem of noise entering the mic of the speaker 
 
 [Evaluation input 15](https://raw.githubusercontent.com/shivasv97/Webex-Meetings-Noise-Suppressor/main/audio_samples/eval_input_15.wav?token=ADLA5V4XXT2WJBAI6FPOWGK7RMO6M)
 
-(audio id="playAstring") (source src="https://raw.githubusercontent.com/shivasv97/Webex-Meetings-Noise-Suppressor/main/audio_samples/eval_input_15.wav?token=ADLA5V4XXT2WJBAI6FPOWGK7RMO6M" type="audio/wav") (/audio)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://raw.githubusercontent.com/shivasv97/Webex-Meetings-Noise-Suppressor/main/audio_samples/eval_input_15.wav?token=ADLA5V4XXT2WJBAI6FPOWGK7RMO6M)
